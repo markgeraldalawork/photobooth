@@ -1,0 +1,12 @@
+{
+  "name": "4R_landscape",
+  "width": 1800,
+  "height": 1200,
+  "slots": [
+    {"x": 0, "y": 0, "w": 900, "h": 1200},    
+    {"x": 900, "y": 0, "w": 800, "h": 600},  
+    {"x": 900, "y": 600, "w": 800, "h": 600}   
+  ],
+  "background": "layouts/4R/bg.png",
+  "overlay": "layouts/4R/overlay.png"
+}

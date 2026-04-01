@@ -1,0 +1,12 @@
+{
+  "name": "classic_strip",
+  "width": 600,
+  "height": 1800,
+  "slots": [
+    {"x": 50, "y": 100, "w": 500, "h": 350},
+    {"x": 50, "y": 550, "w": 500, "h": 650},
+    {"x": 50, "y": 1300, "w": 500, "h": 350}
+  ],
+  "background": "layouts/classic/bg.png",
+  "overlay": "layouts/classic/overlay.png"
+}
